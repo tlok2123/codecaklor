@@ -29,21 +29,21 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<!-- ### Run Locally
+### Run Locally
 
 To run **Dentelo** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/dentelo.git
+sudo git clone https://dinhnghia204.github.io/DentisWeb/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/dentelo.git
-``` -->
+git clone https://dinhnghia204.github.io/DentisWeb/
+```
 
 <!-- ### Contact
 
